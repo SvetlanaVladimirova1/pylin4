@@ -1,0 +1,10 @@
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_badarx: /home/user2/tst/badarx
+count_files: 5
+size_file: 1M
+local_path: /home/user
+remote_path: /home/user2
+host: 0.0.0.0
+remote_user: user2
